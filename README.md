@@ -1,7 +1,6 @@
 # JS OBFRUSCATOR
 
-I use : https://www.npmjs.com/package/javascript-obfuscator
-and : https://www.npmjs.com/package/uglify-js
+I use : https://www.npmjs.com/package/javascript-obfuscator and https://www.npmjs.com/package/uglify-js
 
 # INSTALLATION
 
